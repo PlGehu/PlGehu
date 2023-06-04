@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-lohani-3454aa247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-lohani-3454aa247/" height="30" width="40" /></a>
 <a href="https://instagram.com/pankajlohani_2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankajlohani_2020" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pl official motivation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pl official motivation" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
